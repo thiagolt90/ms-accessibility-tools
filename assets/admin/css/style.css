@@ -1,0 +1,14 @@
+.accessibility-card {
+    background: #fff;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.btn-container {
+    margin: 20px auto;
+}
+
+.bg-success {
+    background: #28a745 !important;
+}
